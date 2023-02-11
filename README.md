@@ -1,1 +1,3 @@
 # follower_get_visualize
+最近フォロワー数増加が激しい三笘選手のインスタフォロワー数を取得し、bokehでグラフ化し保存。
+フォロワー数とグラフをLine Notify で通知。
